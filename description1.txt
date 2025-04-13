@@ -1,5 +1,5 @@
 •InvoiceNo: Unique identifier for each transaction
-•tockCode: Product code
+•StockCode: Product code
 •Description: Product name
 •Quantity: Number of items purchased
 •InvoiceDate: Date and time of the transaction
